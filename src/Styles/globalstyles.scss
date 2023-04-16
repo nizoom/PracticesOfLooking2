@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&display=swap');
+
+$font-weights: (
+    "thin" : 100,
+    "extra-light": 200,
+    "light": 300,
+    "regular": 400,
+    "medium" : 500,
+    "semi-bold" : 600,
+    "bold": 700
+);
+
+$font-sizes: (
+    "largest": 50.52px,
+    "large": 37px,
+    "medium": 28.43px,
+    "small" : 21.33px,
+    "x-small" : 16px
+);
+
+
+// $palette: (
+//     "darkest": #22223B,
+//     "light-gray": #4A4E69,
+//     "light-prpl": #9A8C98,
+//     "light-pink": #C9ADA7,
+//     "lightest": #F2E9E4
+// )

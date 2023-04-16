@@ -1,0 +1,7 @@
+getArcContent gets all the arc content for that subchapter
+
+The content is ordered by page
+
+Now types become important as it flows to the different components 
+
+Start from how its recieved and build the type from that 

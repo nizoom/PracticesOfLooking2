@@ -1,0 +1,18 @@
+.subchapters-wrapper{
+    background-color: black;
+}
+ 
+.subchapter-grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: auto;
+    width: 80%;
+    justify-content: center;
+}
+
+.chapter-header{
+    background-color: black;
+   margin: 0;
+   width: 100%;
+   padding: 30px;
+}
